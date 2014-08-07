@@ -603,7 +603,15 @@ copy and paste this short code anywhere of page or post - <strong>[mitsol_tweets
 To override settings, include setting attributes in short codes as follows - <strong>[mitsol_tweets_short_code tweet_user="twitter" header="true" num="30" post_items="authname,posttxt" backg_color="#ffffff" post_text_size="12" ....... ]</strong> <br/><br/>
 <b><a target="_blank" href="http://extensions.techhelpsource.com/mstweets_wordpress_shortcodes.htm">Click here to view all short code attributes for free/pro version. </a></b>
 
-</div></div>
+</div>
+<div class="well">
+<a class="btn btn-info" target="_blank" style="font-weight:bold;" href="http://extensions.techhelpsource.com/wordpress/mitsol-tweets-pro">Click to Buy pro version now for a complete tweet display for your website</a><br/><br/>
+To show tweets in slider with different slider settings, show number of retweets & favourites, show images in tweet if exists, make url/hashtag/others in text linkable, include tweet replies, show header & scrolling plugin, and more settings<br/><br/>
+
+<strong>View pro version demo for all the features here - <a class="btn btn-info" target="_blank" href="http://wordpress.techhelpsource.com/mitsol-tweets/">Pro Demo</a></strong>
+
+</div>
+</div>
  
  </div>
  <?php  }
