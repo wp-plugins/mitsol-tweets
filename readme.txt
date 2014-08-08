@@ -11,6 +11,12 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Mitsol tweets displays tweets vertically and also displays tweets in tweet slider(pro version) for any user-tweets, hashtag-tweets, search-tweets using Twitter v1.1 REST API. It caches tweet data from twitter into database to deal with twitter Api request limit(read doc). 
 
+It's easy to handle and not dependant on jquery/javascript. Not only it shows tweets of a user but also tweets from any hashtag, search keyword with different result type(recent, mixed, popular). Although it uses cache to overcome twitter api request limit, you can use it to specify how long to cache data before getting new tweets from twitter.com.
+
+you can customize all the way by showing/hiding items in a tweet and coloring, using font sizes for items(pro version). Read more features of free version below.
+
+A complete tweet display for business or personal interest.
+
 = Features =
 
 * Uses Twitter Api v1.1 to get tweets
