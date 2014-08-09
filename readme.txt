@@ -14,7 +14,7 @@ It's easy to handle and not dependant on jquery/javascript. Not only it shows tw
 
 You can customize all the way by showing/hiding items in a tweet and coloring, using font sizes for items(pro version). Read more features of free version below.
 
-A complete tweet display for business or personal interest.
+A complete tweet display for business or personal interest. Post ideas about the plugin in [pro version website](http://extensions.techhelpsource.com/forum "pro version website forum") & [follow me](https://twitter.com/mridulcs "follow me") on twitter  for updates.
 
 = Features =
 
@@ -28,6 +28,12 @@ A complete tweet display for business or personal interest.
 * View the request limit per 15 minutes 
 * Responsive and loads fast
 * Multiple display in any page
+* Efficient way of calling to twitter to get data
+* Show date according to your wp timezone settings 
+* Have the ability to increase cache time
+* Set fixed height & scroll
+* Embed tweets directly into a page template, see faq
+* More options in pro version
 
 
 To show tweets in slider with different slider settings, show number of retweets & favourites, show images in tweet if exists, make url/hashtag/others in text linkable to twitter.com, include tweet replies, show header & scrolling plugin, and more settings then [upgrade to the Pro version](http://extensions.techhelpsource.com/wordpress/mitsol-tweets-pro "mitsol tweets pro"). Try out the [Pro demo](http://wordpress.techhelpsource.com/mitsol-tweets/ "mitsol tweets Demo").
