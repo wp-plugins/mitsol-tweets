@@ -1,6 +1,6 @@
 === Mitsol tweets ===
 Contributors: mitsol
-Tags: tweets, twitter, api, oauth, REST, sidebar, social, tweet-slider, tweet-hashtag, plugin, tweet display 
+Tags: tweets, tweet, twitter widget, twitter, api, oauth, social, tweet slider, tweet-hashtag, plugin, tweet display, tweet feed, REST, sidebar, post, shortcode, hashtags, favorites, page, template, keywords, user tweets, widgets, Post
 Requires at least: 3.1
 Tested up to: 3.9.2
 Stable tag: 1.0
