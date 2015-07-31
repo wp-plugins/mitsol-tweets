@@ -14,7 +14,7 @@ It's easy to handle and not dependant on jquery/javascript. Not only it shows tw
 
 You can customize all the way by showing/hiding items in a tweet and coloring, using font sizes for items(pro version). Read more features of free version below.
 
-A complete tweet display for business or personal interest. Post ideas about the plugin in [pro version website](http://extensions.techhelpsource.com/forum "pro version website forum") & [follow me](https://twitter.com/mridulcs "follow me") on twitter  for updates.
+A complete tweet display for business or personal interest. Post ideas about the plugin in [pro version website](http://extensions.techhelpsource.com/forum "pro version website forum") & [follow](https://twitter.com/mitsol12 "follow") on twitter  for updates.
 
 = Features =
 
